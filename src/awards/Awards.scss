@@ -1,0 +1,11 @@
+@import '../vars.scss';
+
+.awards {
+  .card {
+    margin-bottom: 16px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
