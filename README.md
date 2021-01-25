@@ -1,8 +1,11 @@
 # jneal-react
 
-I'm very familiar with Angular, but I wanted to learn a bit about React, so I took my brand new Angular site I just created, and re-created it in React.
-
-This is the result of that work. Nothing is unit tested, and I'm sure it's not following all of React's best practices, but it works great!
+I've been using Angular very heavily for the past 5 years, but I had never used
+React. I decided to change that. I had recently redesigned my website using the
+latest version of Angular, so I decided to port that code over and re-create it
+this time using React. This repo is the result of that work. Nothing is unit
+tested, nor is it deployed anywhere. I'm sure it's not following all of React's
+best practices, but it works great and I learned a lot!
 
 ## Getting Started with Create React App
 
